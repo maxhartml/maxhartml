@@ -7,8 +7,7 @@ Greetings! I'm Max Hart, a dedicated ML and AI scientist embarking on a transfor
 - **Backend Development:** Java, Spring Boot
 - **Frontend Development:** HTML, CSS, Typescript
 - **Databases:** MySQL
-- **Machine Learning & AI:** Python
-  - **Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **Machine Learning & AI:** Python -> TensorFlow, PyTorch, Scikit-learn, Keras
 - **Currently Learning:** ML & AI
 
 ## Goals 🌟
