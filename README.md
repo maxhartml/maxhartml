@@ -1,22 +1,20 @@
 # Welcome to My GitHub Profile!
 
 ## About Me 👋
-Hello! I'm Max Hart, an aspiring full-stack developer with a passion for crafting elegant solutions to complex problems. I have a solid foundation in Java and Spring Boot for backend development, along with proficiency in HTML and CSS for frontend design. My experience also includes working with MySQL for database management.
+Greetings! I'm Max Hart, a dedicated ML and AI scientist embarking on a transformative journey into the captivating domains of machine learning and artificial intelligence. As I prepare to commence my postgraduate studies, I am poised to deepen my expertise in this dynamic field. With a robust foundation in Java and Spring Boot for backend development, complemented by proficiency in HTML, CSS, and Typescript for frontend design, I am expanding my repertoire to include Python for ML and AI applications.
 
-## Skills 🧘‍♂️
+## Skills 🧠
 - **Backend Development:** Java, Spring Boot
-- **Frontend Development:** HTML, CSS
+- **Frontend Development:** HTML, CSS, Typescript
 - **Databases:** MySQL
-- **Currently Learning:** Angular, TypeScript
+- **Machine Learning & AI:** Python
+  - **Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **Currently Learning:** ML & AI
 
-## Goals 🎯
-I'm currently on a journey to expand my skill set by diving deeper into frontend development with Angular and mastering TypeScript. I'm excited about the prospect of combining my backend expertise with frontend technologies to create dynamic and user-friendly web applications.
-
-## Looking For 🔭
-I am actively seeking opportunities as a developer where I can leverage my skills in Java, Spring Boot, HTML, CSS, Angular, and TypeScript. Whether it's a remote or office-based role, I'm eager to contribute to innovative projects and collaborate with like-minded professionals.
+## Goals 🌟
+My aspirations center on mastering ML and AI methodologies, algorithms, and implementations. Through a combination of rigorous postgraduate studies and self-directed learning, I am committed to achieving mastery in Python for ML and AI applications, exploring advanced ML algorithms, and contributing to cutting-edge research in the field. I am driven by a passion to leverage technology to address real-world challenges and foster innovation.
 
 ## Get in Touch 📫
-- LinkedIn: [Max Hart](https://www.linkedin.com/in/maxhart5000)
-- Email: maxhart5000@icloud.com
+Feel free to reach out via email: maxhart5000@icloud.com
 
-Let's connect and explore potential opportunities together!
+Let's connect and embark on an exciting journey together in the realm of ML and AI!
