@@ -1,19 +1,28 @@
-# Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 
-## About Me 👋
-Greetings! I'm Max Hart, a dedicated ML and AI scientist embarking on a transformative journey into the captivating domains of machine learning and artificial intelligence. As I prepare to commence my postgraduate studies, I am poised to deepen my expertise in this dynamic field. With a robust foundation in Java and Spring Boot for backend development, complemented by proficiency in HTML, CSS, and Typescript for frontend design, I am expanding my repertoire to include Python for ML and AI applications.
+## About Me  
+Hi! I’m **Max Hart**, a passionate Machine Learning Engineer and current MSc candidate in Artificial Intelligence and Machine Learning at the University of Birmingham. I specialize in building high-performance, scalable AI solutions and have a background in both backend development and data science. My goal is to leverage advanced ML models and AI-driven insights to address real-world challenges and drive innovation.
 
-## Skills 🧠
-- **Backend Development:** Java, Spring Boot
-- **Frontend Development:** HTML, CSS, Typescript
-- **Databases:** MySQL
-- **Machine Learning & AI:** Python -> TensorFlow, PyTorch, Scikit-learn, Keras
-- **Currently Learning:** ML & AI
+---
 
-## Goals 🌟
-My aspirations center on mastering ML and AI methodologies, algorithms, and implementations. Through a combination of rigorous postgraduate studies and self-directed learning, I am committed to achieving mastery in Python for ML and AI applications, exploring advanced ML algorithms, and contributing to cutting-edge research in the field. I am driven by a passion to leverage technology to address real-world challenges and foster innovation.
+## 🚀 Skills & Expertise
 
-## Get in Touch 📫
-Feel free to reach out via email: maxhart5000@icloud.com
+- **Programming Languages**: Python, Java, R, SQL, HTML, CSS, Typescript
+- **Machine Learning & AI**: TensorFlow, PyTorch, Keras, scikit-learn, Hugging Face Transformers, OpenCV
+- **Data Analysis**: NumPy, Pandas, Matplotlib, SciPy  
+- **Web & APIs**: RESTful APIs, Spring Boot, Django, Angular
+- **DevOps & Cloud**: Git, GitHub, AWS (EC2, S3)  
 
-Let's connect and embark on an exciting journey together in the realm of ML and AI!
+---
+
+## 🌟 Current Focus  
+I’m dedicated to advancing machine learning by delving into the mathematics that optimizes and drives model performance. Building on my mathematics background, I’m exploring intricate optimization techniques and theoretical frameworks that shape effective ML and AI solutions. This deep dive into mathematical underpinnings enhances my ability to develop scalable, impactful models across diverse applications.
+
+---
+
+## 📫 Let’s Connect!  
+I’m always open to connecting with like-minded professionals and collaborators. Feel free to reach out:
+- **Email**: [maxhart5000@icloud.com](mailto:maxhart5000@icloud.com)  
+- **LinkedIn**: [linkedin.com/in/maxahart](https://www.linkedin.com/in/maxahart)
+
+---
