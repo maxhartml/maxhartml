@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-## About Me  
+## 👨‍💻 About Me  
 Hi! I’m **Max Hart**, a passionate Machine Learning Engineer and current MSc candidate in Artificial Intelligence and Machine Learning at the University of Birmingham. I specialize in building high-performance, scalable AI solutions and have a background in both backend development and data science. My goal is to leverage advanced ML models and AI-driven insights to address real-world challenges and drive innovation.
 
 ---
