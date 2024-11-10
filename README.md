@@ -23,6 +23,6 @@ I’m dedicated to advancing machine learning by delving into the mathematics th
 ## 📫 Let’s Connect!  
 I’m always open to connecting with like-minded professionals and collaborators. Feel free to reach out:
 - **Email**: [maxhart5000@icloud.com](mailto:maxhart5000@icloud.com)  
-- **LinkedIn**: [linkedin.com/in/maxahart](https://www.linkedin.com/in/maxhartml)
+- **LinkedIn**: [linkedin.com/in/maxhartml](https://www.linkedin.com/in/maxhartml)
 
 ---
