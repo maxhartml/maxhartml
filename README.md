@@ -1,4 +1,4 @@
-# 👋 Welcome to Max Hart’s GitHub Profile
+# 👋 Welcome to My GitHub Profile
 
 ## About Me
 
