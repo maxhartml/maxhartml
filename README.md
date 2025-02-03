@@ -1,62 +1,49 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to Max Hart’s GitHub Profile
 
-## 👨‍💻 About Me  
-Hi, I’m **Max** — a Machine Learning Engineer and MSc candidate in Artificial Intelligence and Machine Learning at the University of Birmingham. My journey into AI started with a fascination for mathematics, which naturally evolved into a passion for creating intelligent systems that learn and adapt. I enjoy combining technical rigour with creativity to build impactful solutions to real-world problems, always striving to push the boundaries of what’s possible in machine learning.
+## About Me
 
-I’m deeply invested in understanding the *why* behind every algorithm and optimising solutions for performance, scalability, and elegance. Whether it’s fine-tuning large language models or designing custom architectures, I love diving deep into the technical details that make machine learning models work.
+I’m Max Hart, an AI & Data Science Specialist and MSc candidate in Artificial Intelligence and Machine Learning at the University of Birmingham. I specialize in designing and deploying advanced machine learning models and innovative AI solutions to solve real-world challenges. With a robust background in mathematics and software engineering, I blend technical rigor with creative problem-solving to push the boundaries of what’s possible in AI.
 
----
+## 🚀 Featured Projects
 
-## 🚀 Skills & Expertise
+### [Elevate Career: AI-Powered Career Evolution Platform](https://github.com/maxhartml/Elevate-Career)
+An innovative platform that revolutionizes job search by leveraging advanced AI and machine learning.
+- **Career Engine:** Uses three cutting-edge ML models for intelligent matching, skill gap evaluation, and career path mapping via a fine-tuned HuggingFace model.
+- **ElevateBot:** An interactive GPT-based assistant that delivers context-aware job recommendations and AI-summarized descriptions.
+- **AI-Driven Documents:** Generates bespoke, tailored resumes and cover letters for each job application.
+- **Full-Stack Excellence:** Built with a robust Python backend, intuitive HTML/CSS/JS frontend (Jinja templating), and MongoDB for dynamic job management.
 
-- **Programming Languages**: Python (my daily driver), Java, R, SQL, HTML, CSS, TypeScript  
-- **Machine Learning & AI**: TensorFlow, PyTorch, Keras, scikit-learn, Hugging Face Transformers, OpenCV  
-- **Data Analysis**: NumPy, Pandas, Matplotlib, SciPy  
-- **Web & APIs**: RESTful APIs, Spring Boot, Django, Angular, FastAPI  
-- **DevOps & Cloud**: Git, GitHub, AWS (EC2, S3)  
-- **Model Optimisation**: Distributed training, quantisation, and mixed-precision techniques  
+### [Visionary ResNet: Advanced Visual Recognition & Classification](https://github.com/maxhartml/Visionary-ResNet)
+A high-performance ResNet-based solution for image classification on CIFAR-100, designed for scalability and accuracy.
+- **Optimized Architecture:** Custom ResNet-18 model achieving benchmark accuracy through data augmentation, label smoothing, and cyclic learning rates.
+- **Efficient Training:** Distributed training on cloud GPUs, mixed-precision computation, and adaptive schedulers reduce training time while preserving high accuracy.
+- **User-Focused Deployment:** FastAPI backend with an intuitive web GUI delivers real-time predictions and confidence scores.
 
----
+### [ArcanaGPT: Customized GPT-2 Language Model for Advanced NLP](https://github.com/maxhartml/ArcanaGPT)
+A compact yet powerful GPT-style language model designed for research and experimentation in natural language processing.
+- **Scalable Model:** Developed a 124M-parameter GPT-2 model using 8 A100 GPUs and distributed data parallel techniques, trained on a 10-billion-token dataset.
+- **Rigorous Validation:** Utilized the Hellaswag dataset to benchmark commonsense reasoning and ensure realistic text generation.
+- **Optimized Inference:** Integrated quantization and model pruning with PyTorch to enhance computational efficiency and reduce latency, all supported by AWS EC2 and S3 for scalable training and storage.
 
-## 🌟 Current Focus  
+## 💡 Skills & Expertise
+- **Programming:** Python, Java, R, SQL, JavaScript, TypeScript, HTML, CSS
+- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, scikit-learn, Hugging Face Transformers, OpenCV
+- **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, SciPy
+- **Web & API Development:** RESTful APIs, Django, FastAPI, Spring Boot
+- **DevOps & Cloud:** Git, GitHub, AWS (EC2, S3)
+- **Model Optimization:** Distributed training, quantization, mixed-precision, and adaptive schedulers
 
-Here’s what I’ve been working on recently:
+## 🌟 Current Focus
 
-### 1. **CIFAR-100 Image Classification Project**  
-- **Overview**: Designed a modular ResNet-based training pipeline for CIFAR-100 image classification.  
-- **Key Features**:  
-  - Supports advanced data augmentations, early stopping, and learning rate scheduling.  
-  - Integrated TensorBoard logging for metrics tracking.  
-  - Includes a GUI and FastAPI-based web app for deployment.  
+I am currently dedicated to advancing AI research and practical applications in:
+- **Innovative Career Solutions:** Enhancing job recommendation systems with advanced ML and NLP techniques.
+- **Scalable Deep Learning:** Developing efficient, high-performance training pipelines for computer vision and language models.
+- **Model Optimization:** Experimenting with distributed training and quantization to improve performance and reduce inference latency.
 
-### 2. **Custom GPT-2 Implementation (124M Parameters)**  
-- **Overview**: Built a scaled-down version of OpenAI’s GPT-2 with over 124M parameters for text generation.  
-- **Key Contributions**:  
-  - Trained on distributed cloud GPUs.  
-  - Implemented efficient checkpointing and mixed-precision training to optimise performance.  
-  - Integrated Hellaswag dataset for model evaluation and perplexity benchmarking.  
+## 📫 Let’s Connect!
 
-### 3. **AI-Powered APIs for Seamless Deployment**  
-- **Overview**: Developing APIs to democratise access to my models.  
-- **Projects**:  
-  - Created an API for serving predictions from the CIFAR-100 classification model.  
-  - Designed a frontend GUI for real-time image uploads and class predictions.  
-  - Used FastAPI for backend logic and model hosting.  
+I’m always excited to collaborate with like-minded professionals and explore new opportunities.
+- **Email:** [maxhartml.ai@gmail.com](mailto:maxhartml.ai@gmail.com)
+- **LinkedIn:** [linkedin.com/in/maxhartml](https://linkedin.com/in/maxhartml)
 
-### 4. **Experimentation in Model Optimisation**  
-- **Focus Areas**:  
-  - Quantisation-aware training to reduce model size.  
-  - Gradient clipping and adaptive schedulers for stable training.  
-  - Distributed training strategies for scaling experiments.  
-
-I’m driven by the challenge of turning theoretical machine learning concepts into real-world applications. Whether it’s building models from scratch or fine-tuning massive architectures, I’m constantly exploring new ways to push the limits of AI.
-
----
-
-## 📫 Let’s Connect!  
-
-I’m always open to connecting with like-minded professionals and collaborators. Feel free to reach out:  
-- **Email**: [maxhart5000@icloud.com](mailto:maxhart5000@icloud.com)  
-- **LinkedIn**: [linkedin.com/in/maxhartml](https://www.linkedin.com/in/maxhartml)  
-
----
+Thank you for visiting my profile. I look forward to connecting and innovating together in the exciting world of AI and machine learning!
