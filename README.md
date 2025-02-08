@@ -12,11 +12,10 @@ I’m Max Hart, an AI & Data Science Specialist and MSc candidate in Artificial 
 
 An innovative platform that revolutionizes job search by leveraging advanced AI and machine learning.
 
-- **Career Engine:** Uses three cutting-edge ML models for intelligent matching, skill gap evaluation, and career path mapping via a fine-tuned HuggingFace model.
-- **ElevateBot:** An interactive GPT-based assistant that delivers context-aware job recommendations and AI-summarized descriptions.
-- **AI-Driven Documents:** Generates bespoke, tailored resumes and cover letters for each job application.
-- **Full-Stack Excellence:** Built with a robust Python backend, intuitive HTML/CSS/JS frontend (Jinja templating), and MongoDB for dynamic job management.
-
+- **Advanced AI & Job Matching:** Employs cutting‑edge ML pipelines for resume matching, skill gap analysis, and daily multi‑threaded job scraping, ensuring users always see fresh and relevant roles.
+- **ElevateBot, Intelligent Career Companion:** A fine‑tuned Hugging Face LLM that delivers context‑aware advice, interview prep, and upcoming automated resume/cover letter creation.
+- **Streamlined Applications & RL Automation:** Ambitiously building a Reinforcement Learning agent to fill out job forms and handle repetitive application tasks, freeing users to focus on professional growth.
+- **Vision for Empowered Careers:** Driven by the belief that job searching should be about opportunity, not anxiety, the platform blends AI insights with a supportive ecosystem—letting users thrive and evolve in their career journeys.
 
 ### [Visionary ResNet: Advanced Visual Recognition & Classification](https://github.com/maxhartml/Visionary-ResNet)
 A high-performance ResNet-based solution for image classification on CIFAR-100, designed for scalability and accuracy
