@@ -6,7 +6,7 @@ I’m Max Hart, an AI & Data Science Specialist and MSc candidate in Artificial 
 
 ## 🚀 Featured Projects
 
-### [Elevate Career: AI-Powered Career Evolution Platform](https://github.com/maxhartml/Elevate-Career)
+### [Elevate Career: AI-Powered Career Evolution Platform](https://github.com/maxhartml/Elevate-Career-Showcase)
 An innovative platform that revolutionizes job search by leveraging advanced AI and machine learning.
 - **Career Engine:** Uses three cutting-edge ML models for intelligent matching, skill gap evaluation, and career path mapping via a fine-tuned HuggingFace model.
 - **ElevateBot:** An interactive GPT-based assistant that delivers context-aware job recommendations and AI-summarized descriptions.
