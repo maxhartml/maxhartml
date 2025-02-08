@@ -6,22 +6,28 @@ I’m Max Hart, an AI & Data Science Specialist and MSc candidate in Artificial 
 
 ## 🚀 Featured Projects
 
-### [Elevate Career: AI-Powered Career Evolution Platform](https://github.com/maxhartml/Elevate-Career-Showcase) 
-## [www.elevatecareer.live](http://www.elevatecareer.live) ##
+### [Elevate Career: AI-Powered Career Evolution Platform](https://github.com/maxhartml/Elevate-Career-Showcase)
+
+[![🚀 ElevateCareer.live 🚀](https://img.shields.io/badge/Visit-ElevateCareer.live-8A2BE2?style=for-the-badge&logo=artstation&logoColor=white&labelColor=000000&font=Roboto)](http://www.elevatecareer.live)
+
 An innovative platform that revolutionizes job search by leveraging advanced AI and machine learning.
+
 - **Career Engine:** Uses three cutting-edge ML models for intelligent matching, skill gap evaluation, and career path mapping via a fine-tuned HuggingFace model.
 - **ElevateBot:** An interactive GPT-based assistant that delivers context-aware job recommendations and AI-summarized descriptions.
 - **AI-Driven Documents:** Generates bespoke, tailored resumes and cover letters for each job application.
 - **Full-Stack Excellence:** Built with a robust Python backend, intuitive HTML/CSS/JS frontend (Jinja templating), and MongoDB for dynamic job management.
 
+
 ### [Visionary ResNet: Advanced Visual Recognition & Classification](https://github.com/maxhartml/Visionary-ResNet)
-A high-performance ResNet-based solution for image classification on CIFAR-100, designed for scalability and accuracy.
+A high-performance ResNet-based solution for image classification on CIFAR-100, designed for scalability and accuracy
+
 - **Optimized Architecture:** Custom ResNet-18 model achieving benchmark accuracy through data augmentation, label smoothing, and cyclic learning rates.
 - **Efficient Training:** Distributed training on cloud GPUs, mixed-precision computation, and adaptive schedulers reduce training time while preserving high accuracy.
 - **User-Focused Deployment:** FastAPI backend with an intuitive web GUI delivers real-time predictions and confidence scores.
 
 ### [ArcanaGPT: Customized GPT-2 Language Model for Advanced NLP](https://github.com/maxhartml/ArcanaGPT)
 A compact yet powerful GPT-style language model designed for research and experimentation in natural language processing.
+
 - **Scalable Model:** Developed a 124M-parameter GPT-2 model using 8 A100 GPUs and distributed data parallel techniques, trained on a 10-billion-token dataset.
 - **Rigorous Validation:** Utilized the Hellaswag dataset to benchmark commonsense reasoning and ensure realistic text generation.
 - **Optimized Inference:** Integrated quantization and model pruning with PyTorch to enhance computational efficiency and reduce latency, all supported by AWS EC2 and S3 for scalable training and storage.
