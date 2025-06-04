@@ -41,10 +41,10 @@ A compact yet powerful GPT-style language model designed for research and experi
 
 ## 🌟 Current Focus
 
-I am currently dedicated to advancing AI research and practical applications in:
-- **Innovative Career Solutions:** Enhancing job recommendation systems with advanced ML and NLP techniques.
-- **Scalable Deep Learning:** Developing efficient, high-performance training pipelines for computer vision and language models.
-- **Model Optimization:** Experimenting with distributed training and quantization to improve performance and reduce inference latency.
+- 🎓 **MSc Dissertation:** Deep learning for Diffuse Optical Tomography (DOT), building 3D CNN models to reconstruct optical brain tissue properties (μₐ, μs′) from frequency-domain light measurements. Focus on learning a data-driven inverse Jacobian operator.
+- ⚙️ **Scalable Deep Learning:** Developing efficient pipelines for volumetric data (U-Net, encoder–decoder) with GPU acceleration.
+- 📦 **Model Optimisation:** Exploring quantisation and distributed training for fast, low-latency biomedical inference.
+- 💼 **AI for Careers:** Improving job matching systems using NLP and transformer-based semantic retrieval.
 
 ## 📫 Let’s Connect!
 
