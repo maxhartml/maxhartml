@@ -49,7 +49,7 @@ A compact yet powerful GPT-style language model designed for research and experi
 ## 📫 Let’s Connect!
 
 I’m always excited to collaborate with like-minded professionals and explore new opportunities.
-- **Email:** [maxhartml.ai@gmail.com](mailto:maxhartml.ai@gmail.com)
+- **Email:** [maxhart.ml.ai@gmail.com](mailto:maxhart.ml.ai@gmail.com)
 - **LinkedIn:** [linkedin.com/in/maxhartml](https://linkedin.com/in/maxhartml)
 
 Thank you for visiting my profile. I look forward to connecting and innovating together in the exciting world of AI and machine learning!
