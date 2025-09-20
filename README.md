@@ -308,6 +308,12 @@ class MaxHart:
 
 **Foundation:** Advanced mathematics, statistics, and probability theory with strong computational and analytical skills
 
+**Senior Year Project:** *Colour quantisation using R and K-means clustering algorithm* **- Grade: 90%**
+- Applied unsupervised K-means clustering to optimise image representation with minimal colours
+- Maintained visual quality while reducing computational complexity
+
+**Group Project:** *Time series analysis using Kruskal-Wallis test* for seasonality determination
+
 </td>
 </tr>
 </table>
