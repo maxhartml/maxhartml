@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/maxhartml)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:maxhart.ml.ai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/maxhartml)
-[![London](https://img.shields.io/badge/📍_London-UK-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml)
+[![London](https://img.shields.io/badge/📍_London-UK-00D9FF?style=for-the-badge&labelColor=000000)](https://linkedin.com/in/maxhartml)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -185,7 +184,6 @@ class MaxHart:
   Advanced mathematics to international cohorts, revision workshops, 1:1 support
 - 🏫 **Overseas Chinese Academy** *(Sep 2019 - Sep 2021)*  
   Multi-level lesson plans, formative assessments, data-driven curriculum optimization
-- 👥 **Leadership at University of Birmingham**: Organized weekly math sessions for **30+ postgraduates**
 
 ## 🛠️ **Tech Stack & Expertise**
 
@@ -193,7 +191,12 @@ class MaxHart:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+
 ### 🧠 **Data Science & Machine Learning**
+
+</div>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000)
@@ -204,7 +207,12 @@ class MaxHart:
 
 </div>
 
+<div align="center">
+
 ### 🤖 **Deep Learning & AI**
+
+</div>
+
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
@@ -215,7 +223,12 @@ class MaxHart:
 
 </div>
 
+<div align="center">
+
 ### ☁️ **Production & Cloud Infrastructure**
+
+</div>
+
 <div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
@@ -226,7 +239,12 @@ class MaxHart:
 
 </div>
 
+<div align="center">
+
 ### ⚙️ **MLOps & Deployment**
+
+</div>
+
 <div align="center">
 
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black&labelColor=000000)
@@ -237,7 +255,12 @@ class MaxHart:
 
 </div>
 
+<div align="center">
+
 ### 💻 **Software Engineering**
+
+</div>
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
@@ -258,33 +281,40 @@ class MaxHart:
 <tr>
 <td width="50%">
 
-### 🎯 **MSc Artificial Intelligence & Machine Learning** 
-[![Distinction](https://img.shields.io/badge/Grade-Distinction_(79%25)-gold?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
+### 🎯 **MSc Data Science** 
+[![Distinction](https://img.shields.io/badge/Grade-Distinction-gold?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
 
-**University of Birmingham** *(Sep 2024 - Sep 2025)*
+**Lancaster University** *(2023-2024)*
 
 **Core Modules:**
-- Machine Learning & Neural Computation
-- Mathematical Foundations for AI/ML  
-- Current Topics in AI & ML
-- Natural Language Processing
-- Evolutionary Computation
+- Machine Learning & Deep Learning
+- Statistical Modelling & Analysis
+- Big Data Technologies & Cloud Computing
+- Advanced Python Programming
+- Research Methods in Data Science
 
-**Dissertation:** *Towards Generalisable Inverse Modelling for FD-DOT via a Hybrid CNN–Transformer*
+**Research Project:** *Colour quantisation using R and K-means clustering algorithm* **- Grade: 90%**
+
+**Leadership:** Successfully led a team of 5 data science students in a semester-long capstone project
 
 </td>
 <td width="50%">
 
-### 📊 **BSc Mathematics & Statistics** 
-[![Honours](https://img.shields.io/badge/Grade-Honours-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
+### 📊 **BSc Mathematics** 
+[![Honours](https://img.shields.io/badge/Grade-Upper_Second_Class_(2:1)-blue?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
 
-**Lancaster University** *(Sep 2016 - Jul 2019)*
+**University of Birmingham** *(2015-2018)*
 
-**Foundation:** Advanced mathematics, statistics, probability theory
+**Foundation:** 
+- Linear algebra, calculus, probability theory
+- Applied statistics & regression analysis
+- Computational mathematics & algorithms
+- Discrete mathematics & optimization
 
-### 👨‍🏫 **Leadership & Teaching**
-- Organized weekly math sessions for **30+ postgraduates**
-- Teaching assistant for advanced mathematics courses
+**Final Year Project:** *Optimization algorithms for resource allocation problems*
+
+### 👨‍🏫 **Teaching Experience**
+- Mathematics Teacher delivering engaging lessons to **30+ students**
 - International education experience in China
 
 </td>
@@ -310,7 +340,6 @@ class MaxHart:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Production+ML+Systems;Data+Science+Excellence;AI+Research+%26+Innovation;Open+to+New+Opportunities!" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🔗_View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/maxhartml)
 [![Let's Connect](https://img.shields.io/badge/💬_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/maxhartml)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
