@@ -69,7 +69,7 @@ class MaxHart:
 <tr>
 <td width="50%">
 
-### 🧠 [**Hybrid CNN-Transformer for FD-DOT**](https://github.com/maxhartml/Hybrid-CNN-Transformer-for-FD-DOT) *(MSc Dissertation)*
+### 🧠 [**Hybrid CNN-Transformer for FD-DOT**](https://github.com/maxhartml/Hybrid-CNN-Transformer-for-FD-DOT)
 [![Research](https://img.shields.io/badge/🔬_Research-MSc_Dissertation-purple?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml/Hybrid-CNN-Transformer-for-FD-DOT)
 
 **Hybrid CNN-Transformer for Medical Imaging**
