@@ -281,7 +281,7 @@ class MaxHart:
 <tr>
 <td width="50%">
 
-### 🎓 **MSc Artificial Intelligence & Machine Learning** 
+### 🎓 **MSc AI & Machine Learning** 
 [![Distinction](https://img.shields.io/badge/Grade-Distinction_(79%25)-gold?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
 
 **University of Birmingham** *(Sep 2024 - Sep 2025)*
