@@ -1,22 +1,143 @@
 <div align="center">
 
-# 🚀 Max Hart | ML Engineer & AI Researcher
+# ⚡ Max Hart | Data Science • Machine Le## 🏆 **Featured Projects**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxhartml)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxhart.ml.ai@gmail.com)
-[![Location](https://img.shields.io/badge/London-UK-success?style=for-the-badge&logo=map-pin&logoColor=white)](https://github.com/maxhartml)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-**MSc AI & Machine Learning | University of Birmingham** *(Distinction, 79%)*
+<table>
+<tr>
+<td width="50%">
 
-*DS/ML engineer with proven delivery for real clients • End-to-end ML pipelines • Production deployment expertise*
+### 🧠 **FD-DOT Neural Reconstruction** *(MSc Dissertation)*
+[![Research](https://img.shields.io/badge/🔬_Research-MSc_Dissertation-purple?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml)
+
+**Hybrid CNN-Transformer for Medical Imaging**
+
+🏗️ **Two-Stage Architecture**: 3D ResNet (256-D latent) + Transformer mapping  
+⚡ **Performance**: **2000× speedup**, <50ms inference vs iterative FEM  
+🔬 **Data Pipeline**: 10k FEM phantoms, varied geometries, HDF5 with QC  
+📊 **Results**: <0.07 mm⁻¹ RMSE, geometry-agnostic inference  
+🛠️ **Tech**: PyTorch, Weights & Biases, coordinate embeddings
+
+</td>
+<td width="50%">
+
+### 🎭 [**Celebrity Face Matcher**](https://github.com/maxhartml/Celebrity-Face-Matcher)
+[![Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-success?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml/Celebrity-Face-Matcher)
+
+**End-to-End Face Recognition & Vector Search**
+
+🔍 **CV Pipeline**: MTCNN detection → InceptionResNet 512D embeddings  
+🚀 **Scale**: Pinecone ANN search + MongoDB Atlas metadata  
+🧠 **Explainable**: CLIP captions + HF LLM natural language rationales  
+📦 **Production**: Streamlit UI, Docker deployment, Kaggle integration  
+🛠️ **Tech**: OpenCV, Pinecone, MongoDB, HuggingFace
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌟 [**Elevate Career**](https://github.com/maxhartml/Elevate-Career-Showcase)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE-ElevateCareer.live-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)](http://www.elevatecareer.live)
+
+**Multi-Model Job Recommender & LLM Assistant**
+
+🤖 **AI Matching**: Fine-tuned HF models + classical ML ensemble  
+💬 **ElevateBot**: Context-aware career advice + CV/cover letter gen  
+⚡ **Production**: AWS pipelines, FastAPI service, W&B tracking  
+🎯 **Features**: Batch/online scoring, request validation, monitoring  
+🛠️ **Tech**: HuggingFace, FastAPI, AWS EC2/S3, LightGBM
+
+</td>
+<td width="50%">
+
+### 🎨 [**Visionary ResNet**](https://github.com/maxhartml/Visionary-ResNet)
+[![Performance](https://img.shields.io/badge/🏆_CIFAR--100-78%25_Accuracy-gold?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml/Visionary-ResNet)
+
+**High-Performance Image Classification**
+
+🏆 **SOTA Results**: 78% top-1 accuracy on CIFAR-100  
+⚡ **Advanced Training**: AMP, cyclic LR, label smoothing, augmentation  
+🚀 **Deployment**: FastAPI + confidence calibration, real-time inference  
+🔧 **MLOps**: CI/CD pipeline, distributed training ready  
+🛠️ **Tech**: PyTorch, FastAPI, Docker, mixed-precision training
+
+</td>
+</tr>
+</table>
+
+### 💼 **Client Project Highlights**
+
+<div align="center">
+
+| **Domain** | **Solution** | **Tech Stack** | **Impact** |
+|:----------:|:------------:|:---------------:|:----------:|
+| 🛒 **E-commerce** | Demand forecasting + personalized recommenders | Python, LightGBM, FastAPI | Improved inventory optimization |
+| 🎫 **B2B SaaS** | NLP auto-tagging + ticket triage | DistilBERT, Streamlit, S3 | Streamlined support workflows |
+| 💰 **Fintech** | OCR invoice processing + backend integration | OpenCV, Tesseract, REST APIs | Automated accounting pipeline |
+
+</div>er
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Production+ML+Systems+Builder;End-to-End+Pipeline+Specialist;18%2B+Months+Client+Delivery" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/maxhartml)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:maxhart.ml.ai@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/maxhartml)
+[![London](https://img.shields.io/badge/📍_London-UK-00D9FF?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🎓 **MSc AI & Machine Learning** | University of Birmingham | **Distinction (79%)**
+### 🎯 **Independent ML Consultant** | Production Systems for Real Clients
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+## 🚀 **About Me**
 
-## 🎯 **About**
+<table>
+<tr>
+<td width="60%">
 
-**Data Science & Machine Learning Engineer** with 18+ months of **independent consulting experience** delivering ML solutions for e-commerce, B2B SaaS, and fintech clients. Strong mathematics foundation with **production-ready expertise**: data engineering, model training/selection, and serving via **FastAPI/Docker/AWS** with full MLOps lifecycle. Recent research includes a **geometry-robust hybrid CNN–Transformer** for biomedical imaging with **2000× speedup** over traditional methods.
+**Data Science, Machine Learning & AI Engineer** with a **robust mathematics foundation** and **18+ months of proven client delivery**. Expert in the complete ML lifecycle: from data engineering & validation to model training/selection and production deployment via **FastAPI/Docker/AWS** with comprehensive MLOps practices.
+
+🎯 **Client Portfolio**: E-commerce demand forecasting, B2B SaaS ticket triage, fintech OCR systems  
+🔬 **Research Excellence**: Geometry-robust hybrid CNN–Transformer for biomedical imaging (**2000× speedup**)  
+👨‍🏫 **Leadership**: Teaching/mentoring experience with **30+ postgraduates** + international cohorts  
+📊 **Full-Stack**: Data pipelines → ML models → production APIs with monitoring & observability
+
+</td>
+<td width="40%">
+
+```python
+class MaxHart:
+    def __init__(self):
+        self.role = "DS/ML/AI Engineer"
+        self.education = "MSc AI/ML (Distinction)"
+        self.experience = "18+ months consulting"
+        self.specialties = [
+            "Production ML Systems",
+            "Computer Vision & NLP", 
+            "MLOps & Deployment",
+            "Biomedical AI Research"
+        ]
+    
+    def current_focus(self):
+        return "Building scalable AI solutions"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=maxhartml&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=maxhartml&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+</div>
 
 ## � **Featured Projects**
 
@@ -38,13 +159,15 @@
 <td width="50%">
 
 ### 🎭 [**Celebrity Face Matcher**](https://github.com/maxhartml/Celebrity-Face-Matcher)
+[![Demo](https://img.shields.io/badge/🚀_Live_Demo-Available-success?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml/Celebrity-Face-Matcher)
 
 **End-to-End Face Recognition & Vector Search**
 
-🔍 **MTCNN + InceptionResNet** • 512D embeddings  
-🚀 **Scalable Search** • Pinecone ANN, MongoDB metadata  
-🧠 **Explainable AI** • CLIP captions + LLM rationales  
-📦 **Production Ready** • Streamlit UI, Docker deployment
+🔍 **CV Pipeline**: MTCNN detection → InceptionResNet 512D embeddings  
+🚀 **Scale**: Pinecone ANN search + MongoDB Atlas metadata  
+🧠 **Explainable**: CLIP captions + HF LLM natural language rationales  
+📦 **Production**: Streamlit UI, Docker deployment, Kaggle integration  
+🛠️ **Tech**: OpenCV, Pinecone, MongoDB, HuggingFace
 
 </td>
 </tr>
@@ -52,43 +175,98 @@
 <td width="50%">
 
 ### 🌟 [**Elevate Career**](https://github.com/maxhartml/Elevate-Career-Showcase)
-[![Live Demo](https://img.shields.io/badge/🌐_Live-ElevateCareer.live-8A2BE2?style=flat-square)](http://www.elevatecareer.live)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE-ElevateCareer.live-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000)](http://www.elevatecareer.live)
 
 **Multi-Model Job Recommender & LLM Assistant**
 
-🤖 **Fine-tuned HF Models** • Job matching + skill analysis  
-💬 **ElevateBot Assistant** • CV/cover letter generation  
-⚡ **Production MLOps** • AWS pipelines, W&B tracking  
-🎯 **FastAPI Service** • Request validation, monitoring
+🤖 **AI Matching**: Fine-tuned HF models + classical ML ensemble  
+💬 **ElevateBot**: Context-aware career advice + CV/cover letter gen  
+⚡ **Production**: AWS pipelines, FastAPI service, W&B tracking  
+🎯 **Features**: Batch/online scoring, request validation, monitoring  
+🛠️ **Tech**: HuggingFace, FastAPI, AWS EC2/S3, LightGBM
 
 </td>
 <td width="50%">
 
 ### 🎨 [**Visionary ResNet**](https://github.com/maxhartml/Visionary-ResNet)
+[![Performance](https://img.shields.io/badge/🏆_CIFAR--100-78%25_Accuracy-gold?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml/Visionary-ResNet)
 
 **High-Performance Image Classification**
 
-🏆 **78% CIFAR-100** • ResNet-18 with optimization  
-⚡ **Advanced Training** • AMP, cyclic LR, augmentation  
-🚀 **Production Deploy** • FastAPI + confidence calibration  
-🔧 **MLOps Ready** • CI/CD, distributed training support
+🏆 **SOTA Results**: 78% top-1 accuracy on CIFAR-100  
+⚡ **Advanced Training**: AMP, cyclic LR, label smoothing, augmentation  
+🚀 **Deployment**: FastAPI + confidence calibration, real-time inference  
+🔧 **MLOps**: CI/CD pipeline, distributed training ready  
+🛠️ **Tech**: PyTorch, FastAPI, Docker, mixed-precision training
 
 </td>
 </tr>
 </table>
 
+### 💼 **Client Project Highlights**
+
+<div align="center">
+
+| **Domain** | **Solution** | **Tech Stack** | **Impact** |
+|:----------:|:------------:|:---------------:|:----------:|
+| 🛒 **E-commerce** | Demand forecasting + personalized recommenders | Python, LightGBM, FastAPI | Improved inventory optimization |
+| 🎫 **B2B SaaS** | NLP auto-tagging + ticket triage | DistilBERT, Streamlit, S3 | Streamlined support workflows |
+| 💰 **Fintech** | OCR invoice processing + backend integration | OpenCV, Tesseract, REST APIs | Automated accounting pipeline |
+
+</div>
+
 ## 💼 **Professional Experience**
 
-### **Independent ML Consultant** *(Feb 2023 - Aug 2024)*
-- 🎯 **3 Client Deliveries**: E-commerce demand forecasting, B2B ticket triage, fintech OCR systems
-- 🔧 **Full-Stack ML**: Python/pandas/scikit-learn → FastAPI → AWS deployment with monitoring
-- 📊 **Production NLP**: DistilBERT auto-tagging pipeline with Streamlit insights dashboard
-- ⚡ **MLOps Implementation**: W&B tracking, DVC versioning, PyTest, CI/CD automation
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-### **Mathematics Teacher** *(Sep 2019 - Dec 2022)*
-- 📚 **International Education**: Advanced mathematics to diverse cohorts in China
-- 👥 **Leadership**: Organized weekly sessions for 30+ postgraduates at University of Birmingham
-- 🎯 **Communication**: Translated complex concepts → clear explanations (now applied to stakeholder ML docs)
+### 🚀 **Independent ML Consultant** *(Feb 2023 - Aug 2024)*
+> **Machine Learning & Software Engineer** • Remote
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🎯 **Client Solutions**
+- **3 Production Deployments**
+- E-commerce demand forecasting
+- B2B SaaS ticket automation  
+- Fintech OCR processing
+- **End-to-end ML pipelines**
+
+</td>
+<td width="33%">
+
+#### 🔧 **Technical Implementation**
+- **Python/pandas/scikit-learn**
+- LightGBM, DistilBERT models
+- FastAPI + Docker on AWS
+- **Data validation & monitoring**
+- ETL for messy client data
+
+</td>
+<td width="33%">
+
+#### ⚡ **MLOps Excellence**
+- **Weights & Biases** tracking
+- DVC/Git LFS versioning
+- **PyTest** for model code
+- CI/CD via GitHub Actions
+- Integration with existing stacks
+
+</td>
+</tr>
+</table>
+
+### 👨‍🏫 **Mathematics Teacher** *(Sep 2019 - Dec 2022)*
+> **International Education Specialist** • China
+
+- 🌍 **Xi'an Jiaotong–Liverpool University** *(Sep 2021 - Dec 2022)*  
+  Advanced mathematics to international cohorts, revision workshops, 1:1 support
+- 🏫 **Overseas Chinese Academy** *(Sep 2019 - Sep 2021)*  
+  Multi-level lesson plans, formative assessments, data-driven curriculum optimization
+- 👥 **Leadership at University of Birmingham**: Organized weekly math sessions for **30+ postgraduates**
 
 ## �️ **Tech Stack**
 
@@ -120,22 +298,68 @@
 
 ## 🎓 **Education & Certifications**
 
-**MSc Artificial Intelligence & Machine Learning** *(2024-2025)*  
-*University of Birmingham* • **Distinction (79%)**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
+</div>
 
-**BSc Mathematics & Statistics** *(2016-2019)*  
-*Lancaster University* • **Honours**
+<table>
+<tr>
+<td width="50%">
 
-**Recent Certifications:**
-- Deep Learning Specialization (Coursera, 2024)
-- Advanced ML & Data Science (Udemy, 2024)
+### 🎯 **MSc Artificial Intelligence & Machine Learning** 
+[![Distinction](https://img.shields.io/badge/Grade-Distinction_(79%25)-gold?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
+
+**University of Birmingham** *(Sep 2024 - Sep 2025)*
+
+**Core Modules:**
+- Machine Learning & Neural Computation
+- Mathematical Foundations for AI/ML  
+- Current Topics in AI & ML
+- Natural Language Processing
+- Evolutionary Computation
+
+**Dissertation:** *Towards Generalisable Inverse Modelling for FD-DOT via a Hybrid CNN–Transformer*
+
+</td>
+<td width="50%">
+
+### 📊 **BSc Mathematics & Statistics** 
+[![Honours](https://img.shields.io/badge/Grade-Honours-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
+
+**Lancaster University** *(Sep 2016 - Jul 2019)*
+
+**Foundation:** Advanced mathematics, statistics, probability theory
+
+### 🏆 **Recent Certifications**
+- 🧠 **Deep Learning Specialization** *(Coursera, 2024)*
+- 📈 **ML A-Z: Python & R Data Science** *(Udemy, 2024)*  
+- 🎯 **ML, Data Science & Deep Learning** *(Udemy, 2024)*
+
+### 👨‍🏫 **Leadership**
+- Organized weekly math sessions for **30+ postgraduates**
+- Teaching assistant for advanced mathematics courses
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-**🚀 Delivering production ML solutions • Open to new opportunities • Let's build something amazing**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxhartml)
+### 🚀 **Building the Future of AI • One Model at a Time**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Production+ML+Systems;Data+Science+Excellence;AI+Research+%26+Innovation;Open+to+New+Opportunities!" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/🔗_View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/maxhartml)
+[![Let's Connect](https://img.shields.io/badge/💬_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/maxhartml)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**💡 "Transforming complex data into intelligent solutions that make a real-world impact"**
+
+<img src="https://komarev.com/ghpvc/?username=maxhartml&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 
 </div>
