@@ -2,7 +2,7 @@
 
 # ⚡ Max Hart | Data Science • Machine Learning • AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Production+ML+Systems+Builder;End-to-End+Pipeline+Specialist;18%2B+Months+Client+Delivery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Produc### 🎯 **MSc Artificial Intelligence & Machine Learning**ion+ML+Systems+Builder;End-to-End+Pipeline+Specialist;18%2B+Months+Client+Delivery" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/maxhartml)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:maxhart.ml.ai@gmail.com)
@@ -69,8 +69,8 @@ class MaxHart:
 <tr>
 <td width="50%">
 
-### 🧠 **FD-DOT Neural Reconstruction** *(MSc Dissertation)*
-[![Research](https://img.shields.io/badge/🔬_Research-MSc_Dissertation-purple?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml)
+### 🧠 [**Hybrid CNN-Transformer for FD-DOT**](https://github.com/maxhartml/Hybrid-CNN-Transformer-for-FD-DOT) *(MSc Dissertation)*
+[![Research](https://img.shields.io/badge/🔬_Research-MSc_Dissertation-purple?style=for-the-badge&labelColor=000000)](https://github.com/maxhartml/Hybrid-CNN-Transformer-for-FD-DOT)
 
 **Hybrid CNN-Transformer for Medical Imaging**
 
@@ -281,41 +281,32 @@ class MaxHart:
 <tr>
 <td width="50%">
 
-### 🎯 **MSc Data Science** 
-[![Distinction](https://img.shields.io/badge/Grade-Distinction-gold?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
+### � **MSc Artificial Intelligence & Machine Learning** 
+[![Distinction](https://img.shields.io/badge/Grade-Distinction_(79%25)-gold?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
 
-**Lancaster University** *(2023-2024)*
+**University of Birmingham** *(Sep 2024 - Sep 2025)*
 
 **Core Modules:**
-- Machine Learning & Deep Learning
-- Statistical Modelling & Analysis
-- Big Data Technologies & Cloud Computing
-- Advanced Python Programming
-- Research Methods in Data Science
+- Machine Learning 
+- Neural Computation
+- Mathematical Foundations for AI/ML  
+- Current Topics in AI & ML
+- Natural Language Processing
+- Evolutionary Computation
 
-**Research Project:** *Colour quantisation using R and K-means clustering algorithm* **- Grade: 90%**
+**Dissertation:** *Towards Generalisable Inverse Modelling for FD-DOT via a Hybrid CNN–Transformer*
 
-**Leadership:** Successfully led a team of 5 data science students in a semester-long capstone project
+**Leadership:** Organised and taught weekly maths sessions for **~30 postgraduates**
 
 </td>
 <td width="50%">
 
-### 📊 **BSc Mathematics** 
-[![Honours](https://img.shields.io/badge/Grade-Upper_Second_Class_(2:1)-blue?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
+### 📊 **BSc Mathematics & Statistics** 
+[![Honours](https://img.shields.io/badge/Grade-Upper_Second_Class_(2:1)-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
 
-**University of Birmingham** *(2015-2018)*
+**Lancaster University** *(Sep 2016 - Jul 2019)*
 
-**Foundation:** 
-- Linear algebra, calculus, probability theory
-- Applied statistics & regression analysis
-- Computational mathematics & algorithms
-- Discrete mathematics & optimization
-
-**Final Year Project:** *Optimization algorithms for resource allocation problems*
-
-### 👨‍🏫 **Teaching Experience**
-- Mathematics Teacher delivering engaging lessons to **30+ students**
-- International education experience in China
+**Foundation:** Advanced mathematics, statistics, and probability theory with strong computational and analytical skills
 
 </td>
 </tr>
