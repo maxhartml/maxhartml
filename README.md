@@ -302,7 +302,7 @@ class MaxHart:
 <td width="50%">
 
 ### 🎓 **BSc Mathematics & Statistics** 
-[![Honours](https://img.shields.io/badge/Grade-Upper_Second_Class_(2:1)-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
+[![Honours](https://img.shields.io/badge/Grade-First CLass Honours-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
 
 **Lancaster University** *(Sep 2016 - Jul 2019)*
 
