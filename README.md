@@ -282,7 +282,7 @@ class MaxHart:
 <td width="50%">
 
 ### 🎓 **MSc AI & Machine Learning** 
-[![Distinction](https://img.shields.io/badge/Grade-Distinction_(79%25)-gold?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
+[![Distinction](https://img.shields.io/badge/Grade-Distinction_(77%25)-gold?style=for-the-badge&labelColor=000000)](https://www.birmingham.ac.uk/)
 
 **University of Birmingham** *(Sep 2024 - Sep 2025)*
 
@@ -302,7 +302,7 @@ class MaxHart:
 <td width="50%">
 
 ### 🎓 **BSc Mathematics & Statistics** 
-[![Honours](https://img.shields.io/badge/Grade-First CLass (Hons)-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
+[![Honours](https://img.shields.io/badge/Grade-First%20Class%20%28Hons%29-blue?style=for-the-badge&labelColor=000000)](https://www.lancaster.ac.uk/)
 
 **Lancaster University** *(Sep 2016 - Jul 2019)*
 
